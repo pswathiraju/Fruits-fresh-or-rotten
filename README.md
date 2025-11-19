@@ -27,14 +27,6 @@ You can use any Kaggle dataset:
 
 Downloaded Fresh and Rotten Fruits Dataset from kaggle
 
-dataset/
- ├── train/
- │   ├── fresh/
- │   └── spoilt/
- ├── test/
- │   ├── fresh/
- │   └── spoilt/
-
 *Technologies & Libraries
 
 Python
